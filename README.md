@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Я начинающий Frontend-разработчик
 
 <!--
 **KatlinBulycheva/katlinbulycheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
