@@ -1,16 +1,21 @@
-### 👋 Я начинающий Frontend-разработчик
+## 👋 Я начинающий Frontend-разработчик
 
-<!--
-**KatlinBulycheva/katlinbulycheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Активно развиваюсь в сфере разработки пользовательских интерфейсов
 
-Here are some ideas to get you started:
+### Технологии
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=15e0eb)
+![TanStack](https://img.shields.io/badge/-TanStack-black?style=for-the-badge&logo=reactquery&logoColor=yellow)
+![ReactRouter](https://img.shields.io/badge/-ReactRouter-black?style=for-the-badge&logo=ReactRouter&logoColor=red)
+![FramerMotion](https://img.shields.io/badge/-framer-black?style=for-the-badge&logo=framer&logoColor=f745ee)
+![javascript](https://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow)
+![html5](https://img.shields.io/badge/-html5-black?style=for-the-badge&logo=html5&logoColor=red)
+![css3](https://img.shields.io/badge/-css3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+### Взгляд на будущее 
+![nextdotjs](https://img.shields.io/badge/-next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![vuedotjs](https://img.shields.io/badge/-vue.js-black?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+### Контакты
+- https://t.me/kaitlin_bull
+- ekaterinabul21@mail.ru
