@@ -2,7 +2,7 @@
 
 Активно развиваюсь в сфере разработки пользовательских интерфейсов
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katlinbulycheva&show_icons=true&hide=&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katlinbulycheva&hide=matlab,faust,shell&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katlinbulycheva&show_icons=true&hide=stars&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katlinbulycheva&hide=matlab,faust,shell&theme=transparent&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Технологии
 
