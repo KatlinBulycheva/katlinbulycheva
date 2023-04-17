@@ -11,7 +11,7 @@
 ![ReactRouter](https://img.shields.io/badge/-ReactRouter-black?style=for-the-badge&logo=ReactRouter&logoColor=red)
 ![FramerMotion](https://img.shields.io/badge/-framer-black?style=for-the-badge&logo=framer&logoColor=f745ee)
 ![toolkit](https://img.shields.io/badge/-toolkit-black?style=for-the-badge&logo=redux&logoColor=764ABC)
-![javascript](https://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript&logoColor=yellow)
+![javascript](https://img.shields.io/badge/-js-black?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![html5](https://img.shields.io/badge/-html5-black?style=for-the-badge&logo=html5&logoColor=red)
 ![css3](https://img.shields.io/badge/-css3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
 
