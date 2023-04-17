@@ -19,3 +19,5 @@
 ### Контакты
 - https://t.me/kaitlin_bull
 - ekaterinabul21@mail.ru
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katlinbulycheva&show_icons=true&hide=stars&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
