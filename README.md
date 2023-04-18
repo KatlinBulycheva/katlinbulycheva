@@ -1,10 +1,10 @@
 ## 👋 Я начинающий Frontend-разработчик
 
-Активно развиваюсь в сфере разработки пользовательских интерфейсов
+Активно развиваюсь в сфере веб технологий. Разрабатываю пользовательские интерфейсы с огоньком в сердечке🔥
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katlinbulycheva&show_icons=true&hide=stars&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katlinbulycheva&hide=matlab,faust,shell&theme=transparent&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+ <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katlinbulycheva&hide=matlab,faust,shell&theme=transparent&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
-### Технологии
+### Основные технологии
 
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=15e0eb)
 ![TanStack](https://img.shields.io/badge/-TanStack-black?style=for-the-badge&logo=reactquery&logoColor=yellow)
@@ -17,8 +17,12 @@
 
 ### Взгляд на будущее 
 ![nextdotjs](https://img.shields.io/badge/-next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![express](https://img.shields.io/badge/-express-black?style=for-the-badge&logo=express&logoColor=white)
+![docker](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![vuedotjs](https://img.shields.io/badge/-vue.js-black?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-### Контакты
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katlinbulycheva&show_icons=true&hide=stars&theme=transparent&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--### Контакты
 - https://t.me/kaitlin_bull
-- ekaterinabul21@mail.ru
+- ekaterinabul21@mail.ru-->
