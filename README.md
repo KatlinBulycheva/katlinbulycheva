@@ -16,6 +16,7 @@
 ![css3](https://img.shields.io/badge/-css3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 ### Взгляд на будущее 
+![nextdotjs](https://img.shields.io/badge/-graphql-black?style=for-the-badge&logo=graphql&logoColor=f745ee)
 ![nextdotjs](https://img.shields.io/badge/-next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![express](https://img.shields.io/badge/-express-black?style=for-the-badge&logo=express&logoColor=white)
 ![docker](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)
