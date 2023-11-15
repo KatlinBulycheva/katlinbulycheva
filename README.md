@@ -1,6 +1,6 @@
-## 👋 Я junior frontend-разработчик
+## 👋 Я frontend-developer c уклоном в react
 
-Активно развиваюсь в сфере веб технологий. Разрабатываю пользовательские интерфейсы с огоньком в сердечке🔥
+Разрабатываю пользовательские интерфейсы с огоньком в сердечке🔥
 
  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katlinbulycheva&hide=matlab,faust,shell&theme=transparent&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
